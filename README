@@ -1,0 +1,10 @@
+Various specifications for my daily work
+========================================
+
+* Arm SMMU: https://developer.arm.com/documentation/ihi0070/latest/
+    * IHI0070-System_Memory_Management_Unit_Architecture_Specification
+    * Version: G.a
+
+* Arm A-profile: https://developer.arm.com/documentation/ddi0487/latest/
+    * DDI0487-profile_architecture_reference_manual
+    * version: K.a
